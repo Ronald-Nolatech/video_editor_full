@@ -9,7 +9,7 @@ environment:
   flutter: ">=1.17.0"
 
 dependencies:
-  ffmpeg_kit_flutter_full: 6.0.3
+  ffmpeg_kit_flutter_full: ^6.0.3
   flutter:
     sdk: flutter
   path: ^1.8.0
